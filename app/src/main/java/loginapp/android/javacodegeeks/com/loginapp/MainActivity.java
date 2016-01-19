@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void authenticateLogin(View view) {
-        if (username.getText().toString().equals("admin") &&
+        if (username.getText().toString().equals("admin1") &&
                 password.getText().toString().equals("admin")) {
             Toast.makeText(getApplicationContext(), "Hello admin!",
                     Toast.LENGTH_SHORT).show();
