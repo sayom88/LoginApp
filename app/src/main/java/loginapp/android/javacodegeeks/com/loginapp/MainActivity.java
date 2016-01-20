@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "Hello admin1!",
                     Toast.LENGTH_SHORT).show();
         } else {
-            Toast.makeText(getApplicationContext(), "Seems like you 're not admin!",
+            Toast.makeText(getApplicationContext(), "Seems like you 're not admin1!",
                     Toast.LENGTH_SHORT).show();
             numberOfRemainingLoginAttempts--;
             attemptsLeftTV.setVisibility(View.VISIBLE);
