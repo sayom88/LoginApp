@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     public void authenticateLogin(View view) {
         if (username.getText().toString().equals("admin1") &&
                 password.getText().toString().equals("admin")) {
-            Toast.makeText(getApplicationContext(), "Hello admin!",
+            Toast.makeText(getApplicationContext(), "Hello admin1!",
                     Toast.LENGTH_SHORT).show();
         } else {
             Toast.makeText(getApplicationContext(), "Seems like you 're not admin!",
