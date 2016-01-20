@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView loginLockedTV;
     private TextView attemptsLeftTV;
     private TextView numberOfRemainingLoginAttemptsTV;
-    int numberOfRemainingLoginAttempts = 9;
+    int numberOfRemainingLoginAttempts = 10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
