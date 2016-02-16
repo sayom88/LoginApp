@@ -26,7 +26,7 @@
         android:layout_below="@+id/textView1"
         android:layout_marginTop="75dp"
         android:layout_marginLeft="10dp"
-        android:text="Username6:"
+        android:text="Username10:"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
@@ -36,7 +36,7 @@
         android:layout_alignBottom="@+id/textView2"
         android:layout_marginLeft="35dp"
         android:layout_toRightOf="@+id/textView2"
-        android:hint="username7" >
+        android:hint="username10" >
         <requestFocus />
     </EditText>
 
@@ -47,7 +47,7 @@
         android:layout_alignLeft="@+id/textView2"
         android:layout_below="@+id/textView2"
         android:layout_marginTop="40dp"
-        android:text="Password7:"
+        android:text="Password10:"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
@@ -57,7 +57,7 @@
         android:layout_alignBottom="@+id/textView3"
         android:layout_alignLeft="@+id/usernameET"
         android:layout_alignRight="@+id/usernameET"
-        android:hint="password6"
+        android:hint="password10"
         android:inputType="textPassword" />
 
     <TextView
