@@ -36,7 +36,7 @@
         android:layout_alignBottom="@+id/textView2"
         android:layout_marginLeft="35dp"
         android:layout_toRightOf="@+id/textView2"
-        android:hint="username6" >
+        android:hint="username7" >
         <requestFocus />
     </EditText>
 
@@ -47,7 +47,7 @@
         android:layout_alignLeft="@+id/textView2"
         android:layout_below="@+id/textView2"
         android:layout_marginTop="40dp"
-        android:text="Password6:"
+        android:text="Password7:"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
